@@ -1,0 +1,7 @@
+﻿  client.cpp
+D:\vs2022\files\chatserve\chatClient\chatClient\client.cpp(16,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\vs2022\files\chatserve\chatClient\chatClient\client.cpp(16,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\vs2022\files\chatserve\chatClient\chatClient\client.cpp(16,17): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\vs2022\files\chatserve\chatClient\chatClient\client.cpp(16,17): message : 此参数用作缓冲区大小
+D:\vs2022\files\chatserve\chatClient\chatClient\client.cpp(22,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  chatClient.vcxproj -> D:\vs2022\files\chatserve\chatClient\x64\Debug\chatClient.exe
